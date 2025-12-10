@@ -15,7 +15,7 @@ pip install psutil speedtest-cli`
 # Set-Up Sctipt
 Clone repository (gunakan versi khusus Termux)
 git clone https://github.com/example/termux-monitoring-tool.git
-cd termux-monitoring-tool`
+cd termux-monitoring-tool
 
 # Buat struktur folder
 mkdir -p logs client_data exports
